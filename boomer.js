@@ -1,1 +1,2 @@
-console.log("rando,m messafe")
+console.log("hello world");
+console.log("Hello Git...");
